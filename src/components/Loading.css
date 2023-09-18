@@ -1,0 +1,10 @@
+.container-loading{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    /* align-items: center; */
+    margin: 20% auto;
+    z-index: 100;
+    text-align: center;
+    transform: translateX("50%");
+}

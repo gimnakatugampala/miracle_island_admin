@@ -1,0 +1,22 @@
+#imageslidermodal .carousel-control-prev, 
+#imageslidermodal .carousel-control-next{
+    color: #fff;
+    background-color: transparent;
+    border: none;
+}
+
+#imageslidermodal .carousel-control-prev:hover,
+#imageslidermodal .carousel-control-next:hover
+{
+    background-color: transparent;
+}
+
+.modal-attr{
+    font-size: 14px;
+    margin: 0;
+    font-weight: bolder;
+}
+
+.modal-val{
+font-size: 16px;
+}
